@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="description" content="fly to za food gng have a fun flighr fr">
+    <meta charset="UTF-8">
+    <title>Travel Agency Page</title>
+  </head>
+  <body>
+    <h1>We can fly you to anywhere you know how to spell!! THATS RIGHTTT ACROSS THE WORLDD!! Asia, America, Europe you name it and we got it! </h1>
+    <p>we have discounts for students and easy travel opertunities for minors! Dont pay extra when your luggage is a little heavy and we get your business, pick us to be your travel agency and we will assure you to being a happy customer!</p>
+    <h2>Packages</h2>
+    <p>Our packages include the family package, solo travel and the marrige package!</p>
+    
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank"> Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure> 
+      <a href= "https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="sea">
+      </a>
+      <figcaption>the sea</figcaption>
+    </figure>
+    <figure>
+      <a href= "https://www.freecodecamp.org/learn" target="_blank">
+       <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="mountain fr">
+      </a>
+      <figcaption>mountain/figcaption>
+     </figure>
+    <figure>
+      <a href= "https://www.freecodecamp.org/learn" target="_blank">
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="colosseo">
+      </a>
+      <figcaption>its the colosseo</figcaption>
+    </figure>
+  </body>
+  </html>
