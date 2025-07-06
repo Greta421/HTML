@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+ <main>
+     <h1>learn mathematics!</h1>
+     <p>this website is here for you to find 3 youtube videos about math, they might not be related to eachother nor be super helpful, but they exist here</p>
+     <section>
+         <h2> calculus</h2>
+         <p>calculus</p>
+         <iframe src="https://m.youtube.com/watch?v=HfACrKJ_Y2w&pp=ygUKY2FsY3VsdXMgMQ%3D%3D" title="long calculus lesson" height="180"
+         width="300"></iframe>
+        </section>
+     <section>
+         <h2>statistics</h2>
+         <p>an 8 hour lecture on statistics from YouTube</p>
+         <iframe src="https://m.youtube.com/watch?v=xxpc-HPKN28" title="Statistics" height="180" width="300">
+         </iframe>
+       </section>
+     <section>
+         <h2>linear algebra</h2>
+         <p>An almost 12 hour long video covering linear algebra</p>
+         <iframe src="https://m.youtube.com/watch?v=JnTa9XtvmfI" title="Algebra" height="180" width="300" ></iframe>
+       </section>
+ </main>
+</body>
+
+</html>
