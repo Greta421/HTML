@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+<header>
+    <h1>Event Hub</h1>
+    <nav>
+        <ul>
+        <li><a href="#upcoming-events">Upcoming Events</a></li>
+        <li><a href="#past-events">Past Events</a></li>
+        </ul>
+    </nav>
+    </header>
+    <main>
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <article><h3>Summer is starting!</h3><p>6.6 come to the gardening festival!, We offer drinks, light snacks and some juice. Come help us replant grass and plant some flowers and watch them grow over time!"</p></article>
+            <article><h3>8.6 help out the shelter</h3><p>On the 8.6 we highly recommend partaking in taking care of the local shelter animals, we will be giving them treats and feeding them, hope you come to see them, maybe even feed them yourselves, walk then and show them lots of love! (you may even adopt one if you fall in love with them~)</p></article>
+        </section>
+        <section id="past-events">
+            <h2>Past Events</h2>
+            <article><h3>Big concert festival</h3><p>6.5 at 19:00-23.00 was the student picked concert</p>
+            <img src="https://pixabay.com/get/g9a21b93fbfae8bcd56586046828188a1f7f49a4c9e5b8dff7e0b7c8f0e0f9f35fc5429a5e3ee7b89bafc0dbfc88c77998eb575e0969e5c5f8bb5565ac7e756593baf5b57e8b96bf39608b3a9dab79b57_640.jpg?attachment=" alt="concert party">
+            </article>
+            <article><h3>Prom</h3><p>18.5 was prom at 17:00-19:00, fun music with dance parties, snacks and drinks and of course the dance and at the end of the night prom king and queen were chosen.</p>
+            <img src="https://en.m.wikipedia.org/wiki/Prom#/media/File%3APreprom.jpg" alt="prom party">
+            </article>
+        </section>
+    </main>
+</body>
+
+</html>
